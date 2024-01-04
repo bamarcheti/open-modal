@@ -8,8 +8,6 @@ export default function Home() {
   const [openModal, setOpenNewOrUpdateDirectoryModal] = useState(false);
 
   const handleOpenModal = () => {
-    console.log("foi");
-
     setOpenNewOrUpdateDirectoryModal(true);
   };
 
