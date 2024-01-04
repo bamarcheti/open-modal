@@ -60,7 +60,7 @@ const Modal = ({
                   </div>
 
                   <div className="p-6 space-y-3">
-                    <span className="text-base font-medium text-gray-title lg:text-lg">
+                    <span className="text-base font-medium text-secondary lg:text-lg">
                       {description}
                     </span>
                   </div>
