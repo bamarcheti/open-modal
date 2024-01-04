@@ -17,8 +17,10 @@ export default function Home() {
     <main className="h-screen flex flex-col justify-center">
       <div className="flex flex-col justify-center items-center gap-6">
         <div className="flex flex-col gap-3 items-center text-secondary">
-          <h1 className="font-bold">Olá!</h1>
-          <h2>Clique no botão para abrir a modal.</h2>
+          <h1 className="text-xl font-bold text-secondary lg:text-2xl">Olá!</h1>
+          <h2 className="text-base font-medium text-gray-title lg:text-lg">
+            Clique no botão para abrir a modal.
+          </h2>
         </div>
         <div className="flex">
           <Button variant="primary" onClick={() => handleOpenModal()}>

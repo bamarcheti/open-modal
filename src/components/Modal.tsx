@@ -54,13 +54,13 @@ const Modal = ({
               <div className="relative flex justify-center items-center px-4 w-full max-w-2xl h-auto mx-3">
                 <div className="relative bg-white rounded-lg shadow w-full sm:w-3/5 ">
                   <div className="flex flex-col items-start p-4 rounded-t border-b">
-                    <span className="text-xl font-bold text-gray-title lg:text-2xl">
+                    <span className="text-xl font-bold text-secondary lg:text-2xl">
                       {modalTitle}
                     </span>
                   </div>
 
                   <div className="p-6 space-y-3">
-                    <span className="text-base font-medium text-gray-title lg:text-2xl">
+                    <span className="text-base font-medium text-gray-title lg:text-lg">
                       {description}
                     </span>
                   </div>
