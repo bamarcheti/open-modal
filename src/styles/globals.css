@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .primary {
+    @apply bg-primary text-white;
+  }
+
+  .primary:hover {
+    @apply bg-primary text-white bg-opacity-90;
+  }
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: initial;
+}
