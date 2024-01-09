@@ -25,7 +25,9 @@ Este é um projeto para demonstrar como fazer uma modal/pop-up.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-# **✨ Como executar**
+## **✨ Como executar**
+
+- **_[README-install](./README-install.md)_**
 
 ## **💛 Contato**
 
